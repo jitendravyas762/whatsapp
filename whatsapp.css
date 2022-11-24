@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    text-align: center;
+    background-color: rgba(4, 80, 4, 0.968);
+    color:#fff;
+}
+ .main .timeline i{
+    font-size: 80px;
+    color:black;
+    width:90px;
+    height: 90px;
+    margin-top:20px;
+    margin-left: 70rem; 
+} 
+.icon i{
+    font-size: 100px;
+    background-color:rgb(168, 241, 105);
+    border-radius: 50%;
+    width:90px;
+    height: 90px;
+    margin: 40px;
+    
+    
+    
+}
+.h1{
+    font-size: 40px;
+}
+.h1 h3{
+    padding:20px 0;
+}
+.google{
+    display: flex;
+    justify-content: center ;
+    background-color: black;
+    align-items: center;
+    font-size: 20px;
+    margin:20px 450px;
+    border-radius: 20px;
+    padding:20px;
+}
+.google .gicon i{
+    display: inline-block;
+    font-size: 80px;
+    color:skyblue;
+}
+.app{
+    border:1px solid white;
+    height: 450px;
+    width:300px;
+    margin:40px 525px;
+    background-color:rgb(197, 192, 192);
+    border-radius: 30px;
+    
+}
+.app .ap1{
+    width:10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+.app .ap2{
+    width:100px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: black;
+}
+.app .ap3{
+    width:10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+.app .ap{
+    display: flex;
+    justify-content: space-around;
+    padding:10px;
+}
+.app .app1{
+    border:1px solid white;
+    height: 380px;
+    width:250px;
+    margin:15px 20px;
+    background-image: url(imagesss/whatsappimage.jfif);
+}
+.app1 .wifi{
+    display: flex;
+    justify-content: right;
+    background-color: black;
+}
+.smile{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(4, 80, 4, 0.968);
+}
+.images .img img{
+    border:2px solid #fff;
+    margin:0 30px 0 0;
+}
+.images .record {
+padding:10px 0;
+    color:black;
+    
+
+}
+.images .record .jitendra {
+    background-color:rgb(168, 241, 105);
+    margin: 0 100px 0 0;
+    border-radius: 20px;
+}
+.images .record1 .mahi {
+    background-color:rgb(168, 241, 105);
+    margin: 0 0 0 90px;
+    border-radius: 20px;
+    color:black;
+}
+.business{
+    background-color: rgb(188, 229, 245);
+    color:black;
+    font-size: 20px;
+}
+.business h1,p{
+    padding:20px;
+}
+.business img{
+    height: 400px;
+    width: 300px;
+}
+.business .phone{
+    height: 400px;
+}
+.hello{
+    background-color: rgb(250, 230, 204);
+    color:black;
+    font-size: 20px;
+    
+}
+.hello .hell{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aqua;
+    border: 1px solid #FFF;
+    /* margin:0px 600px; */
+    transform: translate(600px,20px);
+}
+.hello h2{
+    padding:50px 0 0 0;
+}
+.explore a{
+    color:aqua;
+    border:1px solid aqua;
+    border-radius: 10px;
+    padding:20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.explore{
+    background-color: #FFF;
+    padding:50px;
+}
+.explore a:hover{
+    background-color: blue;
+}
+.companys{
+    display: flex;
+    justify-content: space-around;
+    background: url(imagesss/footer-bg.jpg) no-repeat fixed center / cover;
+    height: 500px;
+    font-size: 30px;
+    align-items: center;
+
+
+}
+.company h2{
+    color:green;
+}
+.company{
+    list-style: none;
+    color:blue;
+}
+hr{
+    color:aqua;
+}
+.llc{
+    font-size: 20px;
+    padding: 40px;
+    background-color: rgb(133, 128, 128);
+
+}
